@@ -1,0 +1,16 @@
+name: quickdraw-benchmark-env
+channels:
+  - pytorch
+  - defaults
+  - conda-forge # Added for scikit-learn if not found in defaults
+dependencies:
+  - python=3.9 # Or your preferred Python version
+  - pytorch
+  - torchvision
+  - numpy
+  - scikit-learn
+  - Pillow
+  - tqdm
+  - pip # If you have pip-installed packages not on conda
+  # - pip:
+  #   - some-pip-package # Example if needed
