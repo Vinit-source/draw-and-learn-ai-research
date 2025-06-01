@@ -12,7 +12,7 @@
       "PackageSpecs": []
     },
     "PyPIPackages": [],
-    "S3Paths": ["s3://env-blueprint-access-o69y719hdpxnyuy8ctciqy8mkbsa1usw2b-s3alias/python_library/sagemaker_studio.zip"],
+    "S3Paths": ["s3://env-bluelogger.info-access-o69y719hdpxnyuy8ctciqy8mkbsa1usw2b-s3alias/python_library/sagemaker_studio.zip"],
     "LocalPaths": [],
     "OtherPaths": []
   }

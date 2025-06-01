@@ -406,9 +406,9 @@ def run_benchmark():
             if DEVICE == torch.device("cuda"):
                 torch.cuda.empty_cache()
 
-    print("\n--- Benchmark Results ---") # Keep this as print for final console summary
+    logger.info("\n--- Benchmark Results ---") # Keep this as logger.info for final console summary
     if not results:
-        print("No results to display.") # Keep as print
+        logger.info("No results to display.") # Keep as logger.info
         return
 
     # --- Display results in console ---
@@ -422,12 +422,12 @@ def run_benchmark():
         col_widths[key] += 2
 
     header_line = " | ".join(f"{h:<{col_widths[h]}}" for h in headers)
-    print(header_line)
-    print("-" * len(header_line))
+    logger.info(header_line)
+    logger.info("-" * len(header_line))
 
     for row in results:
         row_line = " | ".join(f"{str(row.get(h, 'N/A')):<{col_widths[h]}}" for h in headers)
-        print(row_line)
+        logger.info(row_line)
 
     # --- Save results to CSV ---
     if results:

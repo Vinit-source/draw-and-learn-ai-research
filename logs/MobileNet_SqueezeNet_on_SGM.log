@@ -1,0 +1,430 @@
+
+2025-06-01 03:26:06,450 - INFO - 2291996958 - Starting download process for 51 categories into './data'...
+2025-06-01 03:26:06,451 - INFO - 2291996958 - File for 'apple' already exists: ./data/full_binary_apple.bin
+2025-06-01 03:26:06,452 - INFO - 2291996958 - File for 'cat' already exists: ./data/full_binary_cat.bin
+2025-06-01 03:26:06,453 - INFO - 2291996958 - File for 'dog' already exists: ./data/full_binary_dog.bin
+2025-06-01 03:26:06,453 - INFO - 2291996958 - File for 'door' already exists: ./data/full_binary_door.bin
+2025-06-01 03:26:06,454 - INFO - 2291996958 - File for 'elephant' already exists: ./data/full_binary_elephant.bin
+2025-06-01 03:26:06,454 - INFO - 2291996958 - File for 'fish' already exists: ./data/full_binary_fish.bin
+2025-06-01 03:26:06,455 - INFO - 2291996958 - File for 'flower' already exists: ./data/full_binary_flower.bin
+2025-06-01 03:26:06,456 - INFO - 2291996958 - File for 'table' already exists: ./data/full_binary_table.bin
+2025-06-01 03:26:06,457 - INFO - 2291996958 - File for 'grass' already exists: ./data/full_binary_grass.bin
+2025-06-01 03:26:06,458 - INFO - 2291996958 - File for 'house' already exists: ./data/full_binary_house.bin
+2025-06-01 03:26:06,458 - INFO - 2291996958 - File for 'ice cream' already exists: ./data/full_binary_ice_cream.bin
+2025-06-01 03:26:06,459 - INFO - 2291996958 - File for 'circle' already exists: ./data/full_binary_circle.bin
+2025-06-01 03:26:06,460 - INFO - 2291996958 - File for 'key' already exists: ./data/full_binary_key.bin
+2025-06-01 03:26:06,460 - INFO - 2291996958 - File for 'lion' already exists: ./data/full_binary_lion.bin
+2025-06-01 03:26:06,461 - INFO - 2291996958 - File for 'moon' already exists: ./data/full_binary_moon.bin
+2025-06-01 03:26:06,462 - INFO - 2291996958 - File for 'nose' already exists: ./data/full_binary_nose.bin
+2025-06-01 03:26:06,463 - INFO - 2291996958 - File for 'pencil' already exists: ./data/full_binary_pencil.bin
+2025-06-01 03:26:06,464 - INFO - 2291996958 - File for 'rabbit' already exists: ./data/full_binary_rabbit.bin
+2025-06-01 03:26:06,464 - INFO - 2291996958 - File for 'sun' already exists: ./data/full_binary_sun.bin
+2025-06-01 03:26:06,465 - INFO - 2291996958 - File for 'tree' already exists: ./data/full_binary_tree.bin
+2025-06-01 03:26:06,465 - INFO - 2291996958 - File for 'umbrella' already exists: ./data/full_binary_umbrella.bin
+2025-06-01 03:26:06,466 - INFO - 2291996958 - File for 'van' already exists: ./data/full_binary_van.bin
+2025-06-01 03:26:06,467 - INFO - 2291996958 - File for 'cake' already exists: ./data/full_binary_cake.bin
+2025-06-01 03:26:06,468 - INFO - 2291996958 - File for 'airplane' already exists: ./data/full_binary_airplane.bin
+2025-06-01 03:26:06,468 - INFO - 2291996958 - File for 'ant' already exists: ./data/full_binary_ant.bin
+2025-06-01 03:26:06,469 - INFO - 2291996958 - File for 'banana' already exists: ./data/full_binary_banana.bin
+2025-06-01 03:26:06,470 - INFO - 2291996958 - File for 'bed' already exists: ./data/full_binary_bed.bin
+2025-06-01 03:26:06,470 - INFO - 2291996958 - File for 'bee' already exists: ./data/full_binary_bee.bin
+2025-06-01 03:26:06,471 - INFO - 2291996958 - File for 'bicycle' already exists: ./data/full_binary_bicycle.bin
+2025-06-01 03:26:06,471 - INFO - 2291996958 - File for 'bird' already exists: ./data/full_binary_bird.bin
+2025-06-01 03:26:06,473 - INFO - 2291996958 - File for 'book' already exists: ./data/full_binary_book.bin
+2025-06-01 03:26:06,473 - INFO - 2291996958 - File for 'bread' already exists: ./data/full_binary_bread.bin
+2025-06-01 03:26:06,474 - INFO - 2291996958 - File for 'bus' already exists: ./data/full_binary_bus.bin
+2025-06-01 03:26:06,475 - INFO - 2291996958 - File for 'elbow' already exists: ./data/full_binary_elbow.bin
+2025-06-01 03:26:06,476 - INFO - 2291996958 - File for 'ear' already exists: ./data/full_binary_ear.bin
+2025-06-01 03:26:06,477 - INFO - 2291996958 - File for 'camera' already exists: ./data/full_binary_camera.bin
+2025-06-01 03:26:06,479 - INFO - 2291996958 - File for 'car' already exists: ./data/full_binary_car.bin
+2025-06-01 03:26:06,480 - INFO - 2291996958 - File for 'chair' already exists: ./data/full_binary_chair.bin
+2025-06-01 03:26:06,481 - INFO - 2291996958 - File for 'clock' already exists: ./data/full_binary_clock.bin
+2025-06-01 03:26:06,485 - INFO - 2291996958 - File for 'cloud' already exists: ./data/full_binary_cloud.bin
+2025-06-01 03:26:06,485 - INFO - 2291996958 - File for 'hand' already exists: ./data/full_binary_hand.bin
+2025-06-01 03:26:06,487 - INFO - 2291996958 - File for 'computer' already exists: ./data/full_binary_computer.bin
+2025-06-01 03:26:06,488 - INFO - 2291996958 - File for 'cookie' already exists: ./data/full_binary_cookie.bin
+2025-06-01 03:26:06,489 - INFO - 2291996958 - File for 'cow' already exists: ./data/full_binary_cow.bin
+2025-06-01 03:26:06,489 - INFO - 2291996958 - File for 'crayon' already exists: ./data/full_binary_crayon.bin
+2025-06-01 03:26:06,490 - INFO - 2291996958 - File for 'cup' already exists: ./data/full_binary_cup.bin
+2025-06-01 03:26:06,491 - INFO - 2291996958 - File for 'eraser' already exists: ./data/full_binary_eraser.bin
+2025-06-01 03:26:06,491 - INFO - 2291996958 - File for 'carrot' already exists: ./data/full_binary_carrot.bin
+2025-06-01 03:26:06,492 - INFO - 2291996958 - File for 'drums' already exists: ./data/full_binary_drums.bin
+2025-06-01 03:26:06,493 - INFO - 2291996958 - File for 'eye' already exists: ./data/full_binary_eye.bin
+2025-06-01 03:26:06,493 - INFO - 2291996958 - File for 'knife' already exists: ./data/full_binary_knife.bin
+2025-06-01 03:26:06,494 - INFO - 2291996958 - Download process finished.
+2025-06-01 03:26:06,627 - INFO - 2846372755 - Loading augmented QuickDraw data for 51 categories...
+2025-06-01 03:26:06,628 - INFO - 2846372755 - Loading QuickDraw category: apple from local binary files...
+2025-06-01 03:26:06,630 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_apple.bin for category apple...
+2025-06-01 03:26:08,216 - INFO - 2438809859 - Successfully loaded or indexed 144722 drawings for apple. Cache capacity: 20000 items.
+2025-06-01 03:26:08,217 - INFO - 2846372755 - Category apple: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:08,293 - INFO - 2846372755 - Loading QuickDraw category: cat from local binary files...
+2025-06-01 03:26:08,294 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_cat.bin for category cat...
+2025-06-01 03:26:10,465 - INFO - 2438809859 - Successfully loaded or indexed 123202 drawings for cat. Cache capacity: 20000 items.
+2025-06-01 03:26:10,466 - INFO - 2846372755 - Category cat: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:10,527 - INFO - 2846372755 - Loading QuickDraw category: dog from local binary files...
+2025-06-01 03:26:10,527 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_dog.bin for category dog...
+2025-06-01 03:26:12,783 - INFO - 2438809859 - Successfully loaded or indexed 152159 drawings for dog. Cache capacity: 20000 items.
+2025-06-01 03:26:12,784 - INFO - 2846372755 - Category dog: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:12,867 - INFO - 2846372755 - Loading QuickDraw category: door from local binary files...
+2025-06-01 03:26:12,868 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_door.bin for category door...
+2025-06-01 03:26:13,878 - INFO - 2438809859 - Successfully loaded or indexed 120230 drawings for door. Cache capacity: 20000 items.
+2025-06-01 03:26:13,879 - INFO - 2846372755 - Category door: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:13,940 - INFO - 2846372755 - Loading QuickDraw category: elephant from local binary files...
+2025-06-01 03:26:13,940 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_elephant.bin for category elephant...
+2025-06-01 03:26:15,537 - INFO - 2438809859 - Successfully loaded or indexed 126969 drawings for elephant. Cache capacity: 20000 items.
+2025-06-01 03:26:15,538 - INFO - 2846372755 - Category elephant: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:15,602 - INFO - 2846372755 - Loading QuickDraw category: fish from local binary files...
+2025-06-01 03:26:15,602 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_fish.bin for category fish...
+2025-06-01 03:26:16,824 - INFO - 2438809859 - Successfully loaded or indexed 134150 drawings for fish. Cache capacity: 20000 items.
+2025-06-01 03:26:16,825 - INFO - 2846372755 - Category fish: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:16,893 - INFO - 2846372755 - Loading QuickDraw category: flower from local binary files...
+2025-06-01 03:26:16,894 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_flower.bin for category flower...
+2025-06-01 03:26:18,433 - INFO - 2438809859 - Successfully loaded or indexed 144818 drawings for flower. Cache capacity: 20000 items.
+2025-06-01 03:26:18,434 - INFO - 2846372755 - Category flower: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:18,511 - INFO - 2846372755 - Loading QuickDraw category: table from local binary files...
+2025-06-01 03:26:18,511 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_table.bin for category table...
+2025-06-01 03:26:19,811 - INFO - 2438809859 - Successfully loaded or indexed 128021 drawings for table. Cache capacity: 20000 items.
+2025-06-01 03:26:19,812 - INFO - 2846372755 - Category table: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:19,878 - INFO - 2846372755 - Loading QuickDraw category: grass from local binary files...
+2025-06-01 03:26:19,878 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_grass.bin for category grass...
+2025-06-01 03:26:21,156 - INFO - 2438809859 - Successfully loaded or indexed 123071 drawings for grass. Cache capacity: 20000 items.
+2025-06-01 03:26:21,156 - INFO - 2846372755 - Category grass: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:21,218 - INFO - 2846372755 - Loading QuickDraw category: house from local binary files...
+2025-06-01 03:26:21,218 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_house.bin for category house...
+2025-06-01 03:26:22,468 - INFO - 2438809859 - Successfully loaded or indexed 135420 drawings for house. Cache capacity: 20000 items.
+2025-06-01 03:26:22,469 - INFO - 2846372755 - Category house: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:22,551 - INFO - 2846372755 - Loading QuickDraw category: ice cream from local binary files...
+2025-06-01 03:26:22,552 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_ice_cream.bin for category ice_cream...
+2025-06-01 03:26:23,700 - INFO - 2438809859 - Successfully loaded or indexed 123133 drawings for ice_cream. Cache capacity: 20000 items.
+2025-06-01 03:26:23,701 - INFO - 2846372755 - Category ice cream: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:23,773 - INFO - 2846372755 - Loading QuickDraw category: circle from local binary files...
+2025-06-01 03:26:23,773 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_circle.bin for category circle...
+2025-06-01 03:26:24,432 - INFO - 2438809859 - Successfully loaded or indexed 122876 drawings for circle. Cache capacity: 20000 items.
+2025-06-01 03:26:24,433 - INFO - 2846372755 - Category circle: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:24,484 - INFO - 2846372755 - Loading QuickDraw category: key from local binary files...
+2025-06-01 03:26:24,484 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_key.bin for category key...
+2025-06-01 03:26:25,629 - INFO - 2438809859 - Successfully loaded or indexed 160965 drawings for key. Cache capacity: 20000 items.
+2025-06-01 03:26:25,630 - INFO - 2846372755 - Category key: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:25,694 - INFO - 2846372755 - Loading QuickDraw category: lion from local binary files...
+2025-06-01 03:26:25,695 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_lion.bin for category lion...
+2025-06-01 03:26:27,384 - INFO - 2438809859 - Successfully loaded or indexed 120949 drawings for lion. Cache capacity: 20000 items.
+2025-06-01 03:26:27,385 - INFO - 2846372755 - Category lion: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:27,443 - INFO - 2846372755 - Loading QuickDraw category: moon from local binary files...
+2025-06-01 03:26:27,444 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_moon.bin for category moon...
+2025-06-01 03:26:28,486 - INFO - 2438809859 - Successfully loaded or indexed 121661 drawings for moon. Cache capacity: 20000 items.
+2025-06-01 03:26:28,489 - INFO - 2846372755 - Category moon: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:28,550 - INFO - 2846372755 - Loading QuickDraw category: nose from local binary files...
+2025-06-01 03:26:28,552 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_nose.bin for category nose...
+2025-06-01 03:26:30,099 - INFO - 2438809859 - Successfully loaded or indexed 197573 drawings for nose. Cache capacity: 20000 items.
+2025-06-01 03:26:30,100 - INFO - 2846372755 - Category nose: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:30,206 - INFO - 2846372755 - Loading QuickDraw category: pencil from local binary files...
+2025-06-01 03:26:30,206 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_pencil.bin for category pencil...
+2025-06-01 03:26:31,604 - INFO - 2438809859 - Successfully loaded or indexed 122001 drawings for pencil. Cache capacity: 20000 items.
+2025-06-01 03:26:31,605 - INFO - 2846372755 - Category pencil: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:31,675 - INFO - 2846372755 - Loading QuickDraw category: rabbit from local binary files...
+2025-06-01 03:26:31,676 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_rabbit.bin for category rabbit...
+2025-06-01 03:26:33,925 - INFO - 2438809859 - Successfully loaded or indexed 155288 drawings for rabbit. Cache capacity: 20000 items.
+2025-06-01 03:26:33,925 - INFO - 2846372755 - Category rabbit: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:33,986 - INFO - 2846372755 - Loading QuickDraw category: sun from local binary files...
+2025-06-01 03:26:33,987 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_sun.bin for category sun...
+2025-06-01 03:26:35,881 - INFO - 2438809859 - Successfully loaded or indexed 133781 drawings for sun. Cache capacity: 20000 items.
+2025-06-01 03:26:35,882 - INFO - 2846372755 - Category sun: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:35,953 - INFO - 2846372755 - Loading QuickDraw category: tree from local binary files...
+2025-06-01 03:26:35,954 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_tree.bin for category tree...
+2025-06-01 03:26:37,494 - INFO - 2438809859 - Successfully loaded or indexed 144721 drawings for tree. Cache capacity: 20000 items.
+2025-06-01 03:26:37,495 - INFO - 2846372755 - Category tree: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:37,566 - INFO - 2846372755 - Loading QuickDraw category: umbrella from local binary files...
+2025-06-01 03:26:37,567 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_umbrella.bin for category umbrella...
+2025-06-01 03:26:38,710 - INFO - 2438809859 - Successfully loaded or indexed 124084 drawings for umbrella. Cache capacity: 20000 items.
+2025-06-01 03:26:38,711 - INFO - 2846372755 - Category umbrella: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:38,777 - INFO - 2846372755 - Loading QuickDraw category: van from local binary files...
+2025-06-01 03:26:38,778 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_van.bin for category van...
+2025-06-01 03:26:40,728 - INFO - 2438809859 - Successfully loaded or indexed 165909 drawings for van. Cache capacity: 20000 items.
+2025-06-01 03:26:40,729 - INFO - 2846372755 - Category van: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:40,819 - INFO - 2846372755 - Loading QuickDraw category: cake from local binary files...
+2025-06-01 03:26:40,820 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_cake.bin for category cake...
+2025-06-01 03:26:42,660 - INFO - 2438809859 - Successfully loaded or indexed 124905 drawings for cake. Cache capacity: 20000 items.
+2025-06-01 03:26:42,661 - INFO - 2846372755 - Category cake: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:42,710 - INFO - 2846372755 - Loading QuickDraw category: airplane from local binary files...
+2025-06-01 03:26:42,710 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_airplane.bin for category airplane...
+2025-06-01 03:26:44,158 - INFO - 2438809859 - Successfully loaded or indexed 151623 drawings for airplane. Cache capacity: 20000 items.
+2025-06-01 03:26:44,159 - INFO - 2846372755 - Category airplane: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:44,239 - INFO - 2846372755 - Loading QuickDraw category: ant from local binary files...
+2025-06-01 03:26:44,240 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_ant.bin for category ant...
+2025-06-01 03:26:46,164 - INFO - 2438809859 - Successfully loaded or indexed 124612 drawings for ant. Cache capacity: 20000 items.
+2025-06-01 03:26:46,165 - INFO - 2846372755 - Category ant: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:46,235 - INFO - 2846372755 - Loading QuickDraw category: banana from local binary files...
+2025-06-01 03:26:46,235 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_banana.bin for category banana...
+2025-06-01 03:26:48,692 - INFO - 2438809859 - Successfully loaded or indexed 307936 drawings for banana. Cache capacity: 20000 items.
+2025-06-01 03:26:48,694 - INFO - 2846372755 - Category banana: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:48,843 - INFO - 2846372755 - Loading QuickDraw category: bed from local binary files...
+2025-06-01 03:26:48,844 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_bed.bin for category bed...
+2025-06-01 03:26:50,231 - INFO - 2438809859 - Successfully loaded or indexed 113862 drawings for bed. Cache capacity: 20000 items.
+2025-06-01 03:26:50,232 - INFO - 2846372755 - Category bed: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:50,297 - INFO - 2846372755 - Loading QuickDraw category: bee from local binary files...
+2025-06-01 03:26:50,298 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_bee.bin for category bee...
+2025-06-01 03:26:52,226 - INFO - 2438809859 - Successfully loaded or indexed 120890 drawings for bee. Cache capacity: 20000 items.
+2025-06-01 03:26:52,226 - INFO - 2846372755 - Category bee: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:52,295 - INFO - 2846372755 - Loading QuickDraw category: bicycle from local binary files...
+2025-06-01 03:26:52,296 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_bicycle.bin for category bicycle...
+2025-06-01 03:26:53,855 - INFO - 2438809859 - Successfully loaded or indexed 126527 drawings for bicycle. Cache capacity: 20000 items.
+2025-06-01 03:26:53,855 - INFO - 2846372755 - Category bicycle: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:53,912 - INFO - 2846372755 - Loading QuickDraw category: bird from local binary files...
+2025-06-01 03:26:53,913 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_bird.bin for category bird...
+2025-06-01 03:26:55,696 - INFO - 2438809859 - Successfully loaded or indexed 133572 drawings for bird. Cache capacity: 20000 items.
+2025-06-01 03:26:55,697 - INFO - 2846372755 - Category bird: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:55,762 - INFO - 2846372755 - Loading QuickDraw category: book from local binary files...
+2025-06-01 03:26:55,762 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_book.bin for category book...
+2025-06-01 03:26:57,492 - INFO - 2438809859 - Successfully loaded or indexed 119364 drawings for book. Cache capacity: 20000 items.
+2025-06-01 03:26:57,493 - INFO - 2846372755 - Category book: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:57,557 - INFO - 2846372755 - Loading QuickDraw category: bread from local binary files...
+2025-06-01 03:26:57,558 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_bread.bin for category bread...
+2025-06-01 03:26:58,651 - INFO - 2438809859 - Successfully loaded or indexed 120570 drawings for bread. Cache capacity: 20000 items.
+2025-06-01 03:26:58,651 - INFO - 2846372755 - Category bread: 5000 train, 1000 val, 1000 test
+2025-06-01 03:26:58,703 - INFO - 2846372755 - Loading QuickDraw category: bus from local binary files...
+2025-06-01 03:26:58,703 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_bus.bin for category bus...
+2025-06-01 03:27:00,543 - INFO - 2438809859 - Successfully loaded or indexed 166208 drawings for bus. Cache capacity: 20000 items.
+2025-06-01 03:27:00,543 - INFO - 2846372755 - Category bus: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:00,603 - INFO - 2846372755 - Loading QuickDraw category: elbow from local binary files...
+2025-06-01 03:27:00,604 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_elbow.bin for category elbow...
+2025-06-01 03:27:01,424 - INFO - 2438809859 - Successfully loaded or indexed 126253 drawings for elbow. Cache capacity: 20000 items.
+2025-06-01 03:27:01,424 - INFO - 2846372755 - Category elbow: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:01,471 - INFO - 2846372755 - Loading QuickDraw category: ear from local binary files...
+2025-06-01 03:27:01,472 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_ear.bin for category ear...
+2025-06-01 03:27:02,220 - INFO - 2438809859 - Successfully loaded or indexed 122897 drawings for ear. Cache capacity: 20000 items.
+2025-06-01 03:27:02,220 - INFO - 2846372755 - Category ear: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:02,265 - INFO - 2846372755 - Loading QuickDraw category: camera from local binary files...
+2025-06-01 03:27:02,266 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_camera.bin for category camera...
+2025-06-01 03:27:03,210 - INFO - 2438809859 - Successfully loaded or indexed 128772 drawings for camera. Cache capacity: 20000 items.
+2025-06-01 03:27:03,210 - INFO - 2846372755 - Category camera: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:03,260 - INFO - 2846372755 - Loading QuickDraw category: car from local binary files...
+2025-06-01 03:27:03,260 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_car.bin for category car...
+2025-06-01 03:27:04,789 - INFO - 2438809859 - Successfully loaded or indexed 182764 drawings for car. Cache capacity: 20000 items.
+2025-06-01 03:27:04,790 - INFO - 2846372755 - Category car: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:04,855 - INFO - 2846372755 - Loading QuickDraw category: chair from local binary files...
+2025-06-01 03:27:04,856 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_chair.bin for category chair...
+2025-06-01 03:27:06,621 - INFO - 2438809859 - Successfully loaded or indexed 222706 drawings for chair. Cache capacity: 20000 items.
+2025-06-01 03:27:06,622 - INFO - 2846372755 - Category chair: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:06,704 - INFO - 2846372755 - Loading QuickDraw category: clock from local binary files...
+2025-06-01 03:27:06,704 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_clock.bin for category clock...
+2025-06-01 03:27:07,676 - INFO - 2438809859 - Successfully loaded or indexed 120536 drawings for clock. Cache capacity: 20000 items.
+2025-06-01 03:27:07,677 - INFO - 2846372755 - Category clock: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:07,726 - INFO - 2846372755 - Loading QuickDraw category: cloud from local binary files...
+2025-06-01 03:27:07,727 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_cloud.bin for category cloud...
+2025-06-01 03:27:08,403 - INFO - 2438809859 - Successfully loaded or indexed 120265 drawings for cloud. Cache capacity: 20000 items.
+2025-06-01 03:27:08,404 - INFO - 2846372755 - Category cloud: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:08,449 - INFO - 2846372755 - Loading QuickDraw category: hand from local binary files...
+2025-06-01 03:27:08,450 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_hand.bin for category hand...
+2025-06-01 03:27:10,370 - INFO - 2438809859 - Successfully loaded or indexed 291773 drawings for hand. Cache capacity: 20000 items.
+2025-06-01 03:27:10,371 - INFO - 2846372755 - Category hand: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:10,573 - INFO - 2846372755 - Loading QuickDraw category: computer from local binary files...
+2025-06-01 03:27:10,574 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_computer.bin for category computer...
+2025-06-01 03:27:11,819 - INFO - 2438809859 - Successfully loaded or indexed 123885 drawings for computer. Cache capacity: 20000 items.
+2025-06-01 03:27:11,820 - INFO - 2846372755 - Category computer: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:11,875 - INFO - 2846372755 - Loading QuickDraw category: cookie from local binary files...
+2025-06-01 03:27:11,876 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_cookie.bin for category cookie...
+2025-06-01 03:27:13,287 - INFO - 2438809859 - Successfully loaded or indexed 131353 drawings for cookie. Cache capacity: 20000 items.
+2025-06-01 03:27:13,288 - INFO - 2846372755 - Category cookie: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:13,336 - INFO - 2846372755 - Loading QuickDraw category: cow from local binary files...
+2025-06-01 03:27:13,337 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_cow.bin for category cow...
+2025-06-01 03:27:15,435 - INFO - 2438809859 - Successfully loaded or indexed 123083 drawings for cow. Cache capacity: 20000 items.
+2025-06-01 03:27:15,435 - INFO - 2846372755 - Category cow: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:15,484 - INFO - 2846372755 - Loading QuickDraw category: crayon from local binary files...
+2025-06-01 03:27:15,484 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_crayon.bin for category crayon...
+2025-06-01 03:27:16,476 - INFO - 2438809859 - Successfully loaded or indexed 129953 drawings for crayon. Cache capacity: 20000 items.
+2025-06-01 03:27:16,477 - INFO - 2846372755 - Category crayon: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:16,556 - INFO - 2846372755 - Loading QuickDraw category: cup from local binary files...
+2025-06-01 03:27:16,557 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_cup.bin for category cup...
+2025-06-01 03:27:18,057 - INFO - 2438809859 - Successfully loaded or indexed 130721 drawings for cup. Cache capacity: 20000 items.
+2025-06-01 03:27:18,058 - INFO - 2846372755 - Category cup: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:18,140 - INFO - 2846372755 - Loading QuickDraw category: eraser from local binary files...
+2025-06-01 03:27:18,141 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_eraser.bin for category eraser...
+2025-06-01 03:27:19,292 - INFO - 2438809859 - Successfully loaded or indexed 118339 drawings for eraser. Cache capacity: 20000 items.
+2025-06-01 03:27:19,293 - INFO - 2846372755 - Category eraser: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:19,338 - INFO - 2846372755 - Loading QuickDraw category: carrot from local binary files...
+2025-06-01 03:27:19,339 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_carrot.bin for category carrot...
+2025-06-01 03:27:20,524 - INFO - 2438809859 - Successfully loaded or indexed 132459 drawings for carrot. Cache capacity: 20000 items.
+2025-06-01 03:27:20,526 - INFO - 2846372755 - Category carrot: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:20,614 - INFO - 2846372755 - Loading QuickDraw category: drums from local binary files...
+2025-06-01 03:27:20,615 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_drums.bin for category drums...
+2025-06-01 03:27:22,123 - INFO - 2438809859 - Successfully loaded or indexed 137299 drawings for drums. Cache capacity: 20000 items.
+2025-06-01 03:27:22,124 - INFO - 2846372755 - Category drums: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:22,200 - INFO - 2846372755 - Loading QuickDraw category: eye from local binary files...
+2025-06-01 03:27:22,202 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_eye.bin for category eye...
+2025-06-01 03:27:23,679 - INFO - 2438809859 - Successfully loaded or indexed 125888 drawings for eye. Cache capacity: 20000 items.
+2025-06-01 03:27:23,680 - INFO - 2846372755 - Category eye: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:23,727 - INFO - 2846372755 - Loading QuickDraw category: knife from local binary files...
+2025-06-01 03:27:23,727 - INFO - 2438809859 - Indexing drawings from ./data/full_binary_knife.bin for category knife...
+2025-06-01 03:27:25,221 - INFO - 2438809859 - Successfully loaded or indexed 172656 drawings for knife. Cache capacity: 20000 items.
+2025-06-01 03:27:25,222 - INFO - 2846372755 - Category knife: 5000 train, 1000 val, 1000 test
+2025-06-01 03:27:25,338 - INFO - 2846372755 - Created datasets with 255000 training samples, 51000 validation samples, and 51000 test samples.
+2025-06-01 03:27:25,345 - INFO - 3842664966 - Using adaptive batch size of 16 for feature extraction
+2025-06-01 03:27:25,346 - INFO - 3842664966 - 
+--- Starting Enhanced Fine-tuning Benchmark ---
+2025-06-01 03:27:25,347 - INFO - 3842664966 - Using device: cuda
+2025-06-01 03:27:25,348 - INFO - 3842664966 - Fine-tuning on QuickDraw categories: apple, cat, dog, door, elephant, fish, flower, table, grass, house, ice cream, circle, key, lion, moon, nose, pencil, rabbit, sun, tree, umbrella, van, cake, airplane, ant, banana, bed, bee, bicycle, bird, book, bread, bus, elbow, ear, camera, car, chair, clock, cloud, hand, computer, cookie, cow, crayon, cup, eraser, carrot, drums, eye, knife
+2025-06-01 03:27:25,348 - INFO - 3842664966 - Samples per category: 5000 train, 1000 test.
+2025-06-01 03:27:25,349 - INFO - 3842664966 - Number of fine-tuning epochs: 10, Learning Rate: 0.0005
+2025-06-01 03:27:25,350 - INFO - 3842664966 - Weight Decay: 1e-05, Gradual Unfreezing: True
+2025-06-01 03:27:25,351 - INFO - 3842664966 - Loading QuickDraw data from local directory: /home/sagemaker-user/src/data
+
+2025-06-01 03:27:25,362 - INFO - 3842664966 - --- Enhanced Fine-tuning Model: MobileNetV3-Small ---
+2025-06-01 03:27:26,154 - INFO - 3842664966 - Starting fine-tuning for MobileNetV3-Small...
+2025-06-01 03:27:26,196 - INFO - 3842664966 - Epoch 1/10
+2025-06-01 03:27:26,201 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 03:38:44,067 - INFO - 3842664966 - Train Loss: 0.8291, Train Accuracy: 77.10%
+2025-06-01 03:39:53,270 - INFO - 3842664966 - Val Loss: 0.4681, Val Accuracy: 86.53%
+2025-06-01 03:39:53,286 - INFO - 3842664966 - New best model found for MobileNetV3-Small! (Val Accuracy: 86.53%)
+2025-06-01 03:39:53,287 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 03:39:53,316 - INFO - 3842664966 - Best model saved: ./models/MobileNetV3-Small_best.pth (Val Accuracy: 86.53%)
+2025-06-01 03:39:53,317 - INFO - 3842664966 - Epoch 2/10
+2025-06-01 03:39:53,318 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+                                                                                                                                            2025-06-01 03:51:12,400 - INFO - 3842664966 - Train Loss: 0.6011, Train Accuracy: 83.08%
+2025-06-01 03:52:20,749 - INFO - 3842664966 - Val Loss: 0.4395, Val Accuracy: 87.53%
+2025-06-01 03:52:20,765 - INFO - 3842664966 - New best model found for MobileNetV3-Small! (Val Accuracy: 87.53%)
+2025-06-01 03:52:20,766 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 03:52:20,807 - INFO - 3842664966 - Best model saved: ./models/MobileNetV3-Small_best.pth (Val Accuracy: 87.53%)
+2025-06-01 03:52:20,808 - INFO - 3842664966 - Epoch 3/10
+2025-06-01 03:52:20,809 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 04:03:30,950 - INFO - 3842664966 - Train Loss: 0.5448, Train Accuracy: 84.57%
+2025-06-01 04:04:41,127 - INFO - 3842664966 - Val Loss: 0.4166, Val Accuracy: 88.11%
+2025-06-01 04:04:41,143 - INFO - 3842664966 - New best model found for MobileNetV3-Small! (Val Accuracy: 88.11%)
+2025-06-01 04:04:41,143 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 04:04:41,182 - INFO - 3842664966 - Best model saved: ./models/MobileNetV3-Small_best.pth (Val Accuracy: 88.11%)
+2025-06-01 04:04:41,183 - INFO - 3842664966 - Epoch 4/10
+2025-06-01 04:04:41,184 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 04:16:02,502 - INFO - 3842664966 - Train Loss: 0.5106, Train Accuracy: 85.55%
+2025-06-01 04:17:09,557 - INFO - 3842664966 - Val Loss: 0.3987, Val Accuracy: 88.57%
+2025-06-01 04:17:09,572 - INFO - 3842664966 - New best model found for MobileNetV3-Small! (Val Accuracy: 88.57%)
+2025-06-01 04:17:09,573 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 04:17:09,613 - INFO - 3842664966 - Best model saved: ./models/MobileNetV3-Small_best.pth (Val Accuracy: 88.57%)
+2025-06-01 04:17:09,614 - INFO - 3842664966 - Epoch 5/10
+2025-06-01 04:17:09,615 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 04:28:37,821 - INFO - 3842664966 - Train Loss: 0.4869, Train Accuracy: 86.19%
+2025-06-01 04:29:44,824 - INFO - 3842664966 - Val Loss: 0.3990, Val Accuracy: 88.62%
+2025-06-01 04:29:44,839 - INFO - 3842664966 - New best model found for MobileNetV3-Small! (Val Accuracy: 88.62%)
+2025-06-01 04:29:44,840 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 04:29:44,882 - INFO - 3842664966 - Best model saved: ./models/MobileNetV3-Small_best.pth (Val Accuracy: 88.62%)
+2025-06-01 04:29:44,883 - INFO - 3842664966 - Epoch 6/10
+2025-06-01 04:29:44,884 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 04:41:09,530 - INFO - 3842664966 - Train Loss: 0.4690, Train Accuracy: 86.53%
+2025-06-01 04:42:14,365 - INFO - 3842664966 - Val Loss: 0.4044, Val Accuracy: 88.32%
+2025-06-01 04:42:14,366 - INFO - 3842664966 - Validation accuracy didn't improve. Counter: 1/3
+2025-06-01 04:42:14,367 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 04:42:14,406 - INFO - 3842664966 - Best model saved: ./models/MobileNetV3-Small_best.pth (Val Accuracy: 88.62%)
+2025-06-01 04:42:14,406 - INFO - 3842664966 - Epoch 7/10
+2025-06-01 04:42:14,408 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 04:53:26,657 - INFO - 3842664966 - Train Loss: 0.4687, Train Accuracy: 86.65%
+2025-06-01 04:54:32,200 - INFO - 3842664966 - Val Loss: 0.3796, Val Accuracy: 89.29%
+2025-06-01 04:54:32,216 - INFO - 3842664966 - New best model found for MobileNetV3-Small! (Val Accuracy: 89.29%)
+2025-06-01 04:54:32,217 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 04:54:32,258 - INFO - 3842664966 - Best model saved: ./models/MobileNetV3-Small_best.pth (Val Accuracy: 89.29%)
+2025-06-01 04:54:32,258 - INFO - 3842664966 - Epoch 8/10
+2025-06-01 04:54:32,259 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 05:06:04,478 - INFO - 3842664966 - Train Loss: 0.4538, Train Accuracy: 87.03%
+2025-06-01 05:07:15,739 - INFO - 3842664966 - Val Loss: 0.3776, Val Accuracy: 89.23%
+2025-06-01 05:07:15,740 - INFO - 3842664966 - Validation accuracy didn't improve. Counter: 1/3
+2025-06-01 05:07:15,740 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 05:07:15,782 - INFO - 3842664966 - Best model saved: ./models/MobileNetV3-Small_best.pth (Val Accuracy: 89.29%)
+2025-06-01 05:07:15,783 - INFO - 3842664966 - Epoch 9/10
+2025-06-01 05:07:15,784 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 05:18:18,083 - INFO - 3842664966 - Train Loss: 0.4516, Train Accuracy: 87.06%
+2025-06-01 05:19:24,703 - INFO - 3842664966 - Val Loss: 0.4002, Val Accuracy: 88.55%
+2025-06-01 05:19:24,704 - INFO - 3842664966 - Validation accuracy didn't improve. Counter: 2/3
+2025-06-01 05:19:24,704 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 05:19:24,750 - INFO - 3842664966 - Best model saved: ./models/MobileNetV3-Small_best.pth (Val Accuracy: 89.29%)
+2025-06-01 05:19:24,751 - INFO - 3842664966 - Epoch 10/10
+2025-06-01 05:19:24,752 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 05:30:53,257 - INFO - 3842664966 - Train Loss: 0.4521, Train Accuracy: 87.12%
+2025-06-01 05:32:01,033 - INFO - 3842664966 - Val Loss: 0.3740, Val Accuracy: 89.37%
+2025-06-01 05:32:01,048 - INFO - 3842664966 - New best model found for MobileNetV3-Small! (Val Accuracy: 89.37%)
+2025-06-01 05:32:01,048 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 05:32:01,086 - INFO - 3842664966 - Best model saved: ./models/MobileNetV3-Small_best.pth (Val Accuracy: 89.37%)
+2025-06-01 05:32:01,124 - INFO - 3842664966 - Final model saved: ./models/MobileNetV3-Small_final.pth
+2025-06-01 05:33:09,340 - INFO - 3842664966 - Test Loss: 0.3642, Test Accuracy: 89.58%
+2025-06-01 05:33:09,341 - INFO - 3842664966 - --- Enhanced Fine-tuning Model: SqueezeNet1_1 ---
+2025-06-01 05:33:09,414 - INFO - 3842664966 - Starting fine-tuning for SqueezeNet1_1...
+2025-06-01 05:33:09,420 - INFO - 3842664966 - Epoch 1/10
+2025-06-01 05:33:09,420 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 05:44:21,170 - INFO - 3842664966 - Train Loss: 1.5761, Train Accuracy: 57.66%
+2025-06-01 05:45:33,671 - INFO - 3842664966 - Val Loss: 0.7815, Val Accuracy: 78.88%
+2025-06-01 05:45:33,675 - INFO - 3842664966 - New best model found for SqueezeNet1_1! (Val Accuracy: 78.88%)
+2025-06-01 05:45:33,676 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 05:45:33,690 - INFO - 3842664966 - Best model saved: ./models/SqueezeNet1_1_best.pth (Val Accuracy: 78.88%)
+2025-06-01 05:45:33,690 - INFO - 3842664966 - Epoch 2/10
+2025-06-01 05:45:33,691 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 05:56:56,631 - INFO - 3842664966 - Train Loss: 0.7983, Train Accuracy: 78.16%
+2025-06-01 05:58:09,345 - INFO - 3842664966 - Val Loss: 0.6604, Val Accuracy: 81.79%
+2025-06-01 05:58:09,351 - INFO - 3842664966 - New best model found for SqueezeNet1_1! (Val Accuracy: 81.79%)
+2025-06-01 05:58:09,351 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 05:58:09,366 - INFO - 3842664966 - Best model saved: ./models/SqueezeNet1_1_best.pth (Val Accuracy: 81.79%)
+2025-06-01 05:58:09,366 - INFO - 3842664966 - Epoch 3/10
+2025-06-01 05:58:09,367 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 06:09:53,102 - INFO - 3842664966 - Train Loss: 0.6925, Train Accuracy: 80.88%
+2025-06-01 06:11:05,863 - INFO - 3842664966 - Val Loss: 0.5808, Val Accuracy: 83.89%
+2025-06-01 06:11:05,868 - INFO - 3842664966 - New best model found for SqueezeNet1_1! (Val Accuracy: 83.89%)
+2025-06-01 06:11:05,869 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 06:11:05,883 - INFO - 3842664966 - Best model saved: ./models/SqueezeNet1_1_best.pth (Val Accuracy: 83.89%)
+2025-06-01 06:11:05,883 - INFO - 3842664966 - Epoch 4/10
+2025-06-01 06:11:05,884 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 06:22:27,876 - INFO - 3842664966 - Train Loss: 0.6367, Train Accuracy: 82.34%
+2025-06-01 06:23:38,950 - INFO - 3842664966 - Val Loss: 0.5658, Val Accuracy: 84.58%
+2025-06-01 06:23:38,956 - INFO - 3842664966 - New best model found for SqueezeNet1_1! (Val Accuracy: 84.58%)
+2025-06-01 06:23:38,957 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 06:23:38,973 - INFO - 3842664966 - Best model saved: ./models/SqueezeNet1_1_best.pth (Val Accuracy: 84.58%)
+2025-06-01 06:23:38,974 - INFO - 3842664966 - Epoch 5/10
+2025-06-01 06:23:38,975 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 06:35:23,767 - INFO - 3842664966 - Train Loss: 0.6008, Train Accuracy: 83.24%
+2025-06-01 06:36:34,633 - INFO - 3842664966 - Val Loss: 0.5455, Val Accuracy: 84.94%
+2025-06-01 06:36:34,638 - INFO - 3842664966 - New best model found for SqueezeNet1_1! (Val Accuracy: 84.94%)
+2025-06-01 06:36:34,638 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 06:36:34,653 - INFO - 3842664966 - Best model saved: ./models/SqueezeNet1_1_best.pth (Val Accuracy: 84.94%)
+2025-06-01 06:36:34,654 - INFO - 3842664966 - Epoch 6/10
+2025-06-01 06:36:34,655 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 06:48:14,320 - INFO - 3842664966 - Train Loss: 0.5743, Train Accuracy: 83.95%
+2025-06-01 06:49:25,310 - INFO - 3842664966 - Val Loss: 0.5317, Val Accuracy: 85.22%
+2025-06-01 06:49:25,316 - INFO - 3842664966 - New best model found for SqueezeNet1_1! (Val Accuracy: 85.22%)
+2025-06-01 06:49:25,317 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 06:49:25,332 - INFO - 3842664966 - Best model saved: ./models/SqueezeNet1_1_best.pth (Val Accuracy: 85.22%)
+2025-06-01 06:49:25,332 - INFO - 3842664966 - Epoch 7/10
+2025-06-01 06:49:25,333 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 07:00:42,333 - INFO - 3842664966 - Train Loss: 0.5546, Train Accuracy: 84.44%
+2025-06-01 07:01:51,146 - INFO - 3842664966 - Val Loss: 0.5411, Val Accuracy: 84.85%
+2025-06-01 07:01:51,147 - INFO - 3842664966 - Validation accuracy didn't improve. Counter: 1/3
+2025-06-01 07:01:51,148 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 07:01:51,165 - INFO - 3842664966 - Best model saved: ./models/SqueezeNet1_1_best.pth (Val Accuracy: 85.22%)
+2025-06-01 07:01:51,165 - INFO - 3842664966 - Epoch 8/10
+2025-06-01 07:01:51,166 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 07:13:17,394 - INFO - 3842664966 - Train Loss: 0.5560, Train Accuracy: 84.41%
+2025-06-01 07:14:21,540 - INFO - 3842664966 - Val Loss: 0.5286, Val Accuracy: 85.34%
+2025-06-01 07:14:21,544 - INFO - 3842664966 - New best model found for SqueezeNet1_1! (Val Accuracy: 85.34%)
+2025-06-01 07:14:21,545 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 07:14:21,559 - INFO - 3842664966 - Best model saved: ./models/SqueezeNet1_1_best.pth (Val Accuracy: 85.34%)
+2025-06-01 07:14:21,559 - INFO - 3842664966 - Epoch 9/10
+2025-06-01 07:14:21,560 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 07:25:58,659 - INFO - 3842664966 - Train Loss: 0.5376, Train Accuracy: 84.86%
+2025-06-01 07:27:01,873 - INFO - 3842664966 - Val Loss: 0.5063, Val Accuracy: 86.03%
+2025-06-01 07:27:01,877 - INFO - 3842664966 - New best model found for SqueezeNet1_1! (Val Accuracy: 86.03%)
+2025-06-01 07:27:01,878 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 07:27:01,892 - INFO - 3842664966 - Best model saved: ./models/SqueezeNet1_1_best.pth (Val Accuracy: 86.03%)
+2025-06-01 07:27:01,892 - INFO - 3842664966 - Epoch 10/10
+2025-06-01 07:27:01,893 - INFO - 3842664966 - Using gradient accumulation with 4 steps
+2025-06-01 07:38:11,272 - INFO - 3842664966 - Train Loss: 0.5249, Train Accuracy: 85.23%
+2025-06-01 07:39:16,287 - INFO - 3842664966 - Val Loss: 0.4876, Val Accuracy: 86.59%
+2025-06-01 07:39:16,293 - INFO - 3842664966 - New best model found for SqueezeNet1_1! (Val Accuracy: 86.59%)
+2025-06-01 07:39:16,293 - INFO - 3842664966 - Current learning rate: 0.000500
+2025-06-01 07:39:16,308 - INFO - 3842664966 - Best model saved: ./models/SqueezeNet1_1_best.pth (Val Accuracy: 86.59%)
+2025-06-01 07:39:16,321 - INFO - 3842664966 - Final model saved: ./models/SqueezeNet1_1_final.pth
+2025-06-01 07:40:29,842 - INFO - 3842664966 - Test Loss: 0.4745, Test Accuracy: 86.84%
+2025-06-01 07:40:29,844 - INFO - 3842664966 - 
+--- Enhanced Fine-tuning Benchmarking Results ---
+2025-06-01 07:40:29,844 - INFO - 3842664966 - Model: MobileNetV3-Small, Test Loss: 0.3642, Test Accuracy: 89.58%, Params: 2.54M, Train Time: N/A, Inference Time: 68.2149, Inference Speed: 747.64
+2025-06-01 07:40:29,845 - INFO - 3842664966 - Model: SqueezeNet1_1, Test Loss: 0.4745, Test Accuracy: 86.84%, Params: 1.24M, Train Time: N/A, Inference Time: 73.5205, Inference Speed: 693.68
+2025-06-01 07:40:29,845 - INFO - 3842664966 - Best model(s) based on test accuracy:
+2025-06-01 07:40:29,847 - INFO - 3842664966 -  - MobileNetV3-Small: 89.58%
+2025-06-01 07:40:29,847 - INFO - 3842664966 -  - SqueezeNet1_1: 86.84%
+2025-06-01 07:40:29,848 - INFO - 3842664966 - Best model(s) based on validation accuracy:
+2025-06-01 07:40:29,848 - INFO - 3842664966 -  - MobileNetV3-Small: 89.37%
+2025-06-01 07:40:29,849 - INFO - 3842664966 -  - SqueezeNet1_1: 86.59%
+2025-06-01 07:40:29,849 - INFO - 3842664966 - 
+--- Enhanced Fine-tuning Benchmark Completed ---
